@@ -29,6 +29,7 @@ public class InsertSort {
         return array;
     }
 
+    // {1,5,3,7,2}
     public static int[] sort(int[] array){
         for (int i = 0; i < array.length; i++){
             int insertValue = array[i];

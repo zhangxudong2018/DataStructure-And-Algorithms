@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * @author 张旭东
  * @version 1.0.0
- * @function
+ * @function 快速排序
  * @date 2020年04月07日 15:03:00
  * @place 公司
  * @copyright 张旭东
